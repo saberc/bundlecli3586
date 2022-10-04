@@ -1,0 +1,13 @@
+code: bundlecli3586-bundle
+description: This is the bundlecli3586 bundle
+
+components:
+  plugins:
+    - plugins/bundlecli3586-plugin.yaml
+
+  widgets:
+    - ui/widgets/country/tableWidget/country-table-widget-descriptor.yaml
+    - ui/widgets/country/detailsWidget/country-details-widget-descriptor.yaml
+    - ui/widgets/country/formWidget/country-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
