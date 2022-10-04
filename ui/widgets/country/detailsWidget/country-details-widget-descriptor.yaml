@@ -1,0 +1,6 @@
+code: country-details-widget
+titles:
+  en: Country Details Widget
+  it: Country Details Widget
+group: free
+customUiPath: country-details-widget.ftl

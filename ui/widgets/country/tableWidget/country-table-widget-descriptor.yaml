@@ -1,0 +1,6 @@
+code: country-table-widget
+titles:
+  en: Country Table Widget
+  it: Country Table Widget
+group: free
+customUiPath: country-table-widget.ftl

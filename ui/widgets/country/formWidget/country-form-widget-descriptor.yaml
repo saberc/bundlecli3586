@@ -1,0 +1,6 @@
+code: country-form-widget
+titles:
+  en: Country Form Widget
+  it: Country Form Widget
+group: free
+customUiPath: country-form-widget.ftl
